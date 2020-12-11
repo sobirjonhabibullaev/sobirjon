@@ -2,7 +2,7 @@
 
 [![Instagram Follow](https://img.shields.io/instagram/follow/sobirjonhabibullaev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/sobirjonhabibullaev?s=09)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=highcontrast" /> 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=cobalt" /> 
 
 ## I'm a Developer and Mentor!
 
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to make more friends 😎
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ZiyodovAnvar Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sobirjon Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
