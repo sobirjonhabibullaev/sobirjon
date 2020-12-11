@@ -1,4 +1,4 @@
-### Hi there, I'm Anvar 👋
+### Hi there, I'm Sobirjon 👋
 
 [![Instagram Follow](https://img.shields.io/instagram/follow/sobirjonhabibullaev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ZiyodovAnvar?s=09)
 
@@ -6,7 +6,7 @@
 
 ## I'm a Developer and Mentor!
 
-- 🔭 I’m currently working on a [Android Studio ]
+- 🔭 I’m currently working on a [React JS]
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
