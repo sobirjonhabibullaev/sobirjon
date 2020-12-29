@@ -20,15 +20,14 @@
 
 
 
-<details>
+
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullev&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&show_icons=true&hide_border=true&theme=tokyonight" />
 
-</details>
 
 ### Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonhabibullaev&layout=compact&langs_count=10)](https://github.com/sobirjonhabibullaev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonhabibullaev&layout=compact&langs_count=15)](https://github.com/sobirjonhabibullaev/github-readme-stats)
 
 
 
