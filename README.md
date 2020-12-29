@@ -1,6 +1,6 @@
 ### Hi there, I'm Sobirjon 👋
 
-<img align="center" alt="border_top" width="100%" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Rectangle%201.png" />
+<img align="center" alt="border_top" width="100%" height="100px" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Rectangle%201.png" />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=cobalt" /> 
 
@@ -38,3 +38,4 @@
 
 
 
+<img align="center" alt="border_top" width="100%" height="80px" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Rectangle%202.png" />
