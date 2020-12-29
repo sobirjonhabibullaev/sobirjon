@@ -4,7 +4,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=cobalt" /> 
 
-<br />
+<br>
 
 ### Experienced Freelancer with a demonstrated history of working in the Computer Software industry. Skilled in Python (Programming Language), Full-Stack Development (MERN), JavaScript, and React.js. Strong professional with experience focused on Web Development. 
 
