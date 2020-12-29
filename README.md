@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
+<img align="center" width="60%" height="450px" alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
 
 <br />
 
