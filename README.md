@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 
-<img style="background: #000;" width="100%" height="550px" alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
+<img style="background: #000;" width="90%" height="600px" alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
 
 
 
