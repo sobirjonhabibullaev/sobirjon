@@ -1,6 +1,14 @@
 <img align="center" alt="border_top" width="100%" height="100px" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Rectangle%201.png" />
 
-<h1 align="center"> Hi there, I'm Sobirjon 👋 </h1>
+<table width="10rem">
+  <tbody width="100%" bg-color="blue">
+    <tr width="100%" bg-color="yellow">
+      <td width="100%"> <p align="left"> <span style="font-size:46px;"><b>SOBIRJON</b></span> Habibullaev</p> </td>
+      <td width="100%"> <h3> info </td>
+    </tr>
+  </tbody>
+ </table>
+
 
 <br/>
 
