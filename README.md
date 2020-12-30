@@ -16,7 +16,7 @@
   </td>
 <td width="50%">
   <summary>:zap: Most used Languages</summary>
-  
+  <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonhabibullaev&layout=compact&langs_count=15)](https://github.com/sobirjonhabibullaev/github-readme-stats)
 </td>
@@ -29,11 +29,8 @@
 
 ### Languages and Tools:
 
-<img align="center" width="60%" height="450px" alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
+<img style="background: #000;" width="40%" height="450px" alt="tools and lnaguages" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Group%201.png" />
 
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 
