@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2 align="center"> Experienced Freelancer with a demonstrated history of working in the Computer Software industry. Skilled in <b>Python (Programming Language)<b/>, <b>Full-Stack Development (MERN)<b/>, <b>JavaScript</b>, and <b>React.js</b>. Strong professional with experience focused on <b>Web Development</b>. </h2>
+<h3 align="left"> Experienced Freelancer with a demonstrated history of working in the Computer Software industry. Skilled in Python (Programming Language), Full-Stack Development (MERN)<b/>, JavaScript, and React.js. Strong professional with experience focused on Web Development. </h3>
 
 <br/>
 
