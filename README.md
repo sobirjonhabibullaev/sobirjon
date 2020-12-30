@@ -1,22 +1,30 @@
 <img align="center" alt="border_top" width="100%" height="100px" src="https://github.com/sobirjonhabibullaev/sobirjonhabibullaev/blob/main/img/Rectangle%201.png" />
 
-<table width="100%">
-  <tbody width="100%" bg-color="blue">
-    <tr width="100%" bg-color="yellow">
-      <td width="100%"> <p align="left"> <span style="font-size:46px;"><b>SOBIRJON</b></span> Habibullaev</p> </td>
-      <td width="100%"> <p> info </p> </td>
-    </tr>
-  </tbody>
- </table>
-
-
-<br/>
-
-<img align="center" width="100%" height="200px" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=cobalt" /> 
+<h1>SOBIRJON  HABIBULLAEV</h1>
+<h3><i> Web Developer </i></h3>
 
 <br/>
 
 <h2 align="center"> Experienced Freelancer with a demonstrated history of working in the Computer Software industry. Skilled in <b>Python (Programming Language)<b/>, <b>Full-Stack Development (MERN)<b/>, <b>JavaScript</b>, and <b>React.js</b>. Strong professional with experience focused on <b>Web Development</b>. </h2>
+
+<br/>
+
+<table>
+  <td width="50%"> 
+    <summary>:zap: Github Stats</summary>
+    <img align="left" width="100%" height="200px" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&count_private=true&show_icons=true&hide_border=true&theme=cobalt" />
+  </td>
+<td width="50%">
+  <summary>:zap: Most used Languages</summary>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonhabibullaev&layout=compact&langs_count=15)](https://github.com/sobirjonhabibullaev/github-readme-stats)
+</td>
+
+</table>
+<br/>
+
+
 
 
 ### Languages and Tools:
@@ -28,8 +36,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=sobirjonhabibullaev&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
-### Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobirjonhabibullaev&layout=compact&langs_count=15)](https://github.com/sobirjonhabibullaev/github-readme-stats)
+
 
 
 
